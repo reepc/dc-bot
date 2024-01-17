@@ -1,0 +1,11 @@
+{
+    "join_channel": "",
+    "leave_channel": "",
+    "bot_log_channel": "",
+    "server_statistics_channel": "",
+    "time_channel": "",
+
+    "token":"",
+    "PHPSESSID":"",
+    "icon_url_for_embed":""
+}
